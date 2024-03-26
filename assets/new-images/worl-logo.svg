@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="748.551" height="313.473" viewBox="0 0 748.551 313.473">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_5" data-name="Rectangle 5" width="748.551" height="313.473" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_8" data-name="Group 8" transform="translate(200 101)">
+    <g id="Group_1" data-name="Group 1" transform="translate(-200 -101)" clip-path="url(#clip-path)">
+      <text id="Mission_IHI" data-name="Mission IHI" transform="translate(0 156.146)" fill="#fff" font-size="87" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">Mission IHI</tspan></text>
+      <text id="I_M_HACKING_IT" data-name="I&apos;M HACKING IT" transform="translate(0 228.129)" fill="#992929" font-size="55" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">I&apos;M HACKING IT</tspan></text>
+    </g>
+  </g>
+</svg>

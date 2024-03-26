@@ -4755,7 +4755,7 @@ section.sk__mega-image-text-section {
  */
 
 .sk__halfscreen-section {
-
+	/* background: #FFF; */
 }
 
 .sk__halfscreen-parallax-image-col, 
@@ -5886,7 +5886,7 @@ a.sk__feature,
 	left: 0;
 	width: 982px;
 	height: 1040px;
-	background-image: url(../../assets/images/MacBook-Pro-2020-Isometric-982x1040-by-Skilltech.webp);
+	background-image: url(../../assets/new-images/MacBook-Pro-2020-Isometric-982x1040-by-Skilltech.png);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -9034,4 +9034,15 @@ h2.h2-super.theme-preview-hero-h2 {
 
 .sf-error-message {
 	color: #ff6371;
+}
+
+.sk__rectangles {
+	position: relative;
+	width: 700px;
+	height: 400px;
+}
+
+.sk__gallery-basic-thumbnails .carousel-control-next, .sk__gallery-basic-thumbnails .carousel-control-prev{
+	top: 50%;
+
 }
