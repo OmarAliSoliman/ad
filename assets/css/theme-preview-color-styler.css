@@ -39,6 +39,10 @@
 .styler-menu-scroll-wrapper {
 	width: 303px;
 	overflow-x: hidden;
+	display: none !important;
+}
+.color-styler.mobile-true.expanded{
+	display: none !important;
 }
 .styler-menu-scroll-scroller {
 	width: 320px;

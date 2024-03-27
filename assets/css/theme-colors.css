@@ -2,7 +2,9 @@ span.sk__iconbox-icon-dash {
 	background: rgb(129,21,255);
 	background: -webkit-gradient(linear,left top, left bottom,from(#000),to(#000)) padding-box, -webkit-gradient(linear, left top, right top, from(rgba(129,21,255,1)), color-stop(50%, rgba(255,42,208,1)), to(rgba(255,143,42,1))) border-box;
 	background: -o-linear-gradient(#000,#000) padding-box, -o-linear-gradient(left, rgba(129,21,255,1) 0%, rgba(255,42,208,1) 50%, rgba(255,143,42,1) 100%) border-box;
-	background: linear-gradient(#000,#000) padding-box, linear-gradient(90deg, rgba(129,21,255,1) 0%, rgba(255,42,208,1) 50%, rgba(255,143,42,1) 100%) border-box;
+	background: linear-gradient(#000,#000) padding-box, linear-gradient(90deg, rgba(4, 48, 252,1) 0%, rgba(252, 4, 5,1) 50%) border-box;
+	/* background: linear-gradient(100deg, rgba(4, 48, 252,1) 30%, rgba(252, 4, 5,1) 60%); */
+
 }
 
 .sk__gradient-back-v1,
@@ -114,7 +116,7 @@ a.sk__iconbox-icon-link > span.sk__iconbox-icon > span.sk__iconbox-trail {
 	background: rgb(129,21,255);
 	background: -moz-linear-gradient(90deg, rgba(129,21,255,0) 45%, rgba(129,21,255,0.25253851540616246) 62%, rgba(255,42,208,0.35898109243697474) 85%, rgba(255,143,42,0.5158438375350141) 99%, rgba(255,169,17,0.8239670868347339) 100%);
 	background: -webkit-linear-gradient(90deg, rgba(129,21,255,0) 45%, rgba(129,21,255,0.25253851540616246) 62%, rgba(255,42,208,0.35898109243697474) 85%, rgba(255,143,42,0.5158438375350141) 99%, rgba(255,169,17,0.8239670868347339) 100%);
-	background: linear-gradient(90deg, rgba(129,21,255,0) 45%, rgba(129,21,255,0.25253851540616246) 62%, rgba(255,42,208,0.35898109243697474) 85%, rgba(255,143,42,0.5158438375350141) 99%, rgba(255,169,17,0.8239670868347339) 100%);
+	background: linear-gradient(90deg, rgba(129,21,255,0) 45%, rgba(129,21,255,0.25253851540616246) 62%, rgba(255,42,208,0.35898109243697474) 85%, rgba(255,143,42,0.5158438375350141) 99%, rgba(4, 48, 252,0.8239670868347339) 100%);
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#8115ff",endColorstr="#ffa911",GradientType=1);
 }
 
