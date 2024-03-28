@@ -10410,16 +10410,24 @@ body.sk__scrolling-started .sk__mobile_for_desktop {
   body.sk__scrolling-started .sk__mobile-menu-bar {
     height: 65px;
   }
-  .sk__mobile-main-logo img{
+  .sk__mobile-main-logo img {
     margin-top: 10px;
   }
-  body.sk__scrolling-started .hc-nav-trigger{
+  body.sk__scrolling-started .hc-nav-trigger {
     top: 17px;
   }
-  .sk__featurebox-col{
+  .sk__featurebox-col {
     max-width: 95%;
   }
-  .sk__laptop-infos-container.sk__flex-center-y{
+  .sk__laptop-infos-container.sk__flex-center-y {
     justify-content: center;
+  }
+}
+
+@media (max-width: 600px) {
+  .downlad_buttons_options {
+    bottom: 5px;
+    margin-top: 10px !important;
+    padding: 20px 25px 19px !important;
   }
 }
