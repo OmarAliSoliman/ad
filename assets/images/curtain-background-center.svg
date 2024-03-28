@@ -3,8 +3,13 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1280 2228" style="enable-background:new 0 0 1280 2228;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:#0A0A0A;}
-	.st1{fill:#FFFFFF;}
+    @font-face {
+        font-family: YourCustomFont;
+        src: url('../fonts/venus rising rg.otf') format('woff'), /* URL to your font file */
+             url('../fonts/venus rising rg.otf') format('truetype'); /* Another format for compatibility */
+    }
+    .st0{fill:#0A0A0A;}
+    .st1{fill:#FFFFFF; font-family: YourCustomFont;} /* Apply your custom font here */
 </style>
 <g id="Layer_1">
 	<rect class="st0" width="1280" height="2228"/>
