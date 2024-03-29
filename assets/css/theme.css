@@ -6620,11 +6620,11 @@ a.sk__feature,
 
 .sk__laptop-mockup-subcontainer {
   position: absolute;
-  top: 30px;
+  top: 100px;
   left: 0;
-  width: 982px;
-  height: 1040px;
-  background-image: url(../../assets/new-images/MacBook-Pro-2020-Isometric-982x1040-by-Skilltech.png);
+  width: 1040px;
+  height: 800px;
+  background-image: url(../../assets/new-images/game-mockup-op2-2.png);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -6633,7 +6633,7 @@ a.sk__feature,
 @media all and (min-width: 1660px) {
   /* custom */
   .sk__laptop-mockup-subcontainer {
-    left: -53px;
+    left: -150px;
   }
 }
 
@@ -10430,4 +10430,10 @@ body.sk__scrolling-started .sk__mobile_for_desktop {
     margin-top: 10px !important;
     padding: 20px 25px 19px !important;
   }
+  .sk__laptop-mockup-subcontainer {
+    width: 90vw;
+    height: calc(60.31vw);
+  }
 }
+
+
