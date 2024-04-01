@@ -10389,6 +10389,10 @@ body.sk__scrolling-started .sk__mobile_for_desktop {
 }
 
 
-#Description .h3-elegant.sk__gradient-fancy-text-back, #Description2 .h3-elegant.sk__gradient-fancy-text-back{
+#Description .h3-elegant.sk__gradient-fancy-text-back, #Description2 .h3-elegant.sk__gradient-fancy-text-back, #ContactUs .h3-elegant.sk__gradient-fancy-text-back{
   text-transform: uppercase;
+}
+
+#ContactUs .h3-elegant.sk__gradient-fancy-text-back, #ContactUs .h3-elegant.sk__gradient-fancy-text{
+  font-size: 38px;
 }
