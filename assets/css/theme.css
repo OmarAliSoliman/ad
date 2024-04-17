@@ -51,6 +51,13 @@ html {
   left: 66.666%;
 }
 
+@media(max-width: 600px){
+  .mcurtain-center {
+    background-image: url(../../assets/images/curtain-background-center-mobile.png);
+    left: 33.333%;
+  }
+}
+
 .sk__master-curtain {
   position: fixed;
   width: 100vw;
@@ -10395,4 +10402,21 @@ body.sk__scrolling-started .sk__mobile_for_desktop {
 
 #ContactUs .h3-elegant.sk__gradient-fancy-text-back, #ContactUs .h3-elegant.sk__gradient-fancy-text{
   font-size: 38px;
+}
+
+
+@media(max-width: 600px){
+  #FeaturesSec2 .super-heading{
+    font-size: 31px !important;
+  }
+  .footer_powerdby a{
+    display: block;
+  }
+  .footer_powerdby a img{
+    margin: 0;
+  }
+}
+
+.footer-main-large-col p a{
+  color: #9aa1a7;
 }
