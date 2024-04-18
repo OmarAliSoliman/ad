@@ -2811,7 +2811,7 @@ span.super-heading.sk__gradient-fancy-text-back.shadowed {
 
   h1.super-heading,
   span.super-heading.sk__gradient-fancy-text-back {
-    font-size: 40px;
+    font-size: 40px !important;
     letter-spacing: -2px;
     line-height: 1.2;
   }
